@@ -4,7 +4,7 @@
 ## Dataset
 The dataset used in this project consists of brain MRI images categorized into different types of tumors. The data includes both tumor-positive and tumor-negative images to train and evaluate the model effectively.
 
-- **Source**: The dataset can be accessed at the following DOI: [10.34740/kaggle/dsv/2127923]
+- **Source**: https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
 - **Categories**: Tumor types such as meningioma, glioma, pituitary tumor, etc.
 
 ## Goal
